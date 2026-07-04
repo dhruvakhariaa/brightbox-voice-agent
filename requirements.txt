@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+twilio
+chromadb
+sentence-transformers
+num2words
+pipecat-ai[sarvam,deepgram,cartesia,openai,google,silero,websocket]==1.4.0

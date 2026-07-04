@@ -1,0 +1,37 @@
+# --- Secrets & environment ---
+.env
+.venv/
+
+# --- Python cruft ---
+__pycache__/
+*.pyc
+*.egg-info/
+
+# --- Local data / generated ---
+data/chroma_db/*
+!data/chroma_db/.gitkeep
+
+# --- Demo recordings (link the video from README instead of committing large files) ---
+demo/*
+!demo/.gitkeep
+*.mp4
+*.mov
+*.webm
+
+# --- Docs: README.md is the ONLY tracked document; everything else is internal ---
+*.md
+!README.md
+# provided source materials + internal planning
+*.docx
+*.pdf
+.claude/
+scratchpad/
+# stray shell-redirect junk
+*LOG*
+*.log
+
+# --- Editor/OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

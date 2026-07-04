@@ -1,0 +1,7 @@
+BrightBox is a monthly subscription box service delivering a curated mix of snacks and household essentials to customers' doors. Customers choose between three plans: the Starter Box (8-10 items, $19/month), the Family Box (15-18 items, $34/month), and the Custom Box (customer-selected items, priced per item).
+
+Boxes ship on the 1st of every month. New subscribers who sign up after the 25th of the month will have their first box shipped on the 1st of the following month. Subscriptions can be paused, skipped for a single month, or cancelled at any time from the account dashboard, with no cancellation fee.
+
+BrightBox currently ships within the United States and Canada only. International shipping is not yet available.
+
+Customers can swap up to 3 items in their box each month before the monthly order-lock date (the 25th of the prior month). After the order-lock date, the box contents are finalized and cannot be changed.

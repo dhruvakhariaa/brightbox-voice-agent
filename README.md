@@ -9,7 +9,7 @@ vector DB) → text-to-speech → back to the caller.**
 
 ## Demo
 
-📹 **[Demo video — click here](REPLACE_WITH_YOUR_DEMO_VIDEO_LINK)**
+📹 **[Demo video — click here]https://drive.google.com/file/d/1UglKjmxfbF4-lp4FYd0NlMpbctR1jrYc/view?usp=drive_link**
 
 <!-- Replace the link above with your uploaded recording (YouTube/Loom/Drive), or drag an
      mp4 into a GitHub issue/release and paste the URL. A 2–3 min real phone call showing:
